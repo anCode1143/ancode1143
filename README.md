@@ -19,10 +19,6 @@
 - 💼 I'm always looking for industry experience
 - 🧩 I'm a passionate problem solver
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anCode1143&show_icons=true&theme=radical&hide=issues" alt="GitHub Stats" width="49%"/>
-</div>
-
 ---
 
 ### 🌐 Let's Connect
